@@ -52,3 +52,9 @@ data: () => ({
   }),
 
 ```
+### manual upload
+If you have disabled the automatic upload mode, you should run the upload command using the following command
+
+```js
+await this.$refs.fileUploader.uploadFile();
+```
