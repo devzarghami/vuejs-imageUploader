@@ -17,7 +17,7 @@ single &amp; multiple image uploader with drag and drop mode
     :file-type="fileUploader.fileType"
     :params="fileUploader.params"
     :auto-upload="fileUploader.autoUpload"
-    single-mode>
+    :single-mode="false">
 </file-upload>
 
 
