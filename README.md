@@ -1,6 +1,11 @@
 # vuejs-imageUploader
 single &amp; multiple image uploader with drag and drop mode
 
+![before upload](https://github.com/devzarghami/vuejs-imageUploader/blob/main/beforeUpload.PNG)
+
+![uploading](https://github.com/devzarghami/vuejs-imageUploader/blob/main/uploading.PNG)
+
+
 ```html
 
 <file-upload
